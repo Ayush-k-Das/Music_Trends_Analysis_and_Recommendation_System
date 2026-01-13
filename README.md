@@ -168,5 +168,8 @@ jupyter notebook
 * Kaggle / CEDS Music Dataset
 * Scikit-learn documentation
 * Seaborn & Matplotlib visualization tools
+
 ---
-Just tell me.
+
+DME for **recruiter visibility**
+* Add **GIF +
