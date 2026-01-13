@@ -128,6 +128,18 @@ get_recommendations("cry", df, tfidf_matrix, top_n=10)
 
 ---
 
+## 📂 Project Structure
+
+```
+Music_Analysis_Recommendation_System/
+├── tcc_ceds_music.csv
+├── Music_Analysis_Recommendation_System.ipynb
+├── requirements(MR).txt
+├── README.md
+```
+
+---
+
 ## ⚙️ Installation & Usage
 
 ### 1️⃣ Clone the Repository
@@ -160,7 +172,7 @@ jupyter notebook
 * Streamlit / Flask deployment
 * User-personalized recommendations
 * Mood-based playlist generation
-
+  
 ---
 
 ## ⭐ Acknowledgements
@@ -168,8 +180,6 @@ jupyter notebook
 * Kaggle / CEDS Music Dataset
 * Scikit-learn documentation
 * Seaborn & Matplotlib visualization tools
+* Seaborn & Matplotlib visualization tools
 
----
-
-DME for **recruiter visibility**
-* Add **GIF +
+--
